@@ -1,0 +1,31 @@
+_repo: The-Promise-of-Air_35132
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blackwood, Algernon
+    birthdate: 1869
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+description: British author Algernon Blackwood was a remarkably influential figure
+  in the genre of "weird" terror. His tales rely on gradually mounting suspense and
+  a sense of discomforting dislocation, rather than gore or explicit horror. The Promise
+  of Air is a classic example of the unique brand of weird fiction that Blackwood
+  pioneered.
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35132'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: The Promise of Air
+url: http://www.gutenberg.org/ebooks/35132
